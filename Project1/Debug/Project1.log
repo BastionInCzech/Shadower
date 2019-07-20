@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\basta\source\repos\project1\project1\main.cpp(206): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\basta\source\repos\project1\project1\main.cpp(108): warning C4172: returning address of local variable or temporary: ret
+c:\users\basta\source\repos\project1\project1\main.cpp(114): warning C4172: returning address of local variable or temporary: ret
+  Project1.vcxproj -> C:\Users\basta\source\repos\Project1\Debug\Project1.exe
